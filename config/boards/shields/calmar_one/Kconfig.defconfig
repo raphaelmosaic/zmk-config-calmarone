@@ -1,6 +1,6 @@
 if SHIELD_calmar_one
-
-config ZMK_calmar_one
-    default "Calmar One"
+            
+config ZMK_KEYBOARD_NAME
+    default "calmar_one"
 
 endif
